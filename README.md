@@ -1,2 +1,4 @@
 # LAGA
- Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling
+This is a repository of data and source code.   
+
+Title: Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling
